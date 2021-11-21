@@ -3,11 +3,17 @@
 **Student Number:** G00398258  
 
 
-README file for my practical assignment for the Programming for Data Analysis module, due 22nd November 2021  
+README file for my practical assignment for the Programming for Data Analysis module, due 22nd November 2021.  
+
+
+## **Repository Contents**  
+- 1 x README.md file  
+- 1 x .gitignore file  
+- 1 x Jupyter Notebook (entitled progda_assignment.ipynb)  
 
 
 ## **Software Information**  
-The code for this project was written in Python version 3.8.8 and ran in a Jupyter Notebook  
+The code for this assignment was written in Python (version 3.8.8) and ran in a Jupyter Notebook.  
 
 
 **Jupyter Version:**  
